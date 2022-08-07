@@ -7,7 +7,7 @@ def testApp() {
 }
 
 def deployApp() {
-	ech "deploying the application"
+	echo "deploying the application"
 }
 
 return this
